@@ -26,7 +26,7 @@ var _jsxFileName = "D:\\Users\\tomaz\\projetos\\react-projects\\drone3\\componen
     _s = $RefreshSig$();
 
 function _templateObject3() {
-  var data = (0,D_Users_tomaz_projetos_react_projects_drone3_node_modules_babel_runtime_helpers_esm_taggedTemplateLiteral__WEBPACK_IMPORTED_MODULE_0__.default)(["\nbackground-image: url('assets/fotosecaohomelast.png');\nheight: 100%;\nwidth: 100%;\nbackground-repeat: no-repeat;\nbackground-position: center bottom;  \nbackground-size: cover;\n\n\n"]);
+  var data = (0,D_Users_tomaz_projetos_react_projects_drone3_node_modules_babel_runtime_helpers_esm_taggedTemplateLiteral__WEBPACK_IMPORTED_MODULE_0__.default)(["\nbackground-image: url('/assets/fotosecaohomelast.png');\nheight: 100%;\nwidth: 100%;\nbackground-repeat: no-repeat;\nbackground-position: center bottom;  \nbackground-size: cover;\n\n\n"]);
 
   _templateObject3 = function _templateObject3() {
     return data;
@@ -80,7 +80,7 @@ var QuemSomosComponent = function QuemSomosComponent() {
             className: "hidelarge ",
             children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxDEV)("img", {
               className: "mx-auto",
-              src: "assets/droneBranco.png",
+              src: "/assets/droneBranco.png",
               alt: "item.altText"
             }, void 0, false, {
               fileName: _jsxFileName,

@@ -95,7 +95,7 @@ var SaibaMaisComponent = function SaibaMaisComponent() {
         md: 6,
         children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxDEV)("img", {
           className: "adimg1 hidesmall",
-          src: "assets/bloco2cinza.png",
+          src: "/assets/bloco2cinza.png",
           alt: "item.altText"
         }, void 0, false, {
           fileName: _jsxFileName,

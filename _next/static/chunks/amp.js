@@ -1574,7 +1574,7 @@ function setupPing(assetPrefix, pathnameFn, retry) {
 
   closePing();
   evtSource = (0, _eventsource.getEventSourceWrapper)({
-    path: "".concat(assetPrefix, "_next/webpack-hmr?page=").concat(currentPage),
+    path: "".concat(assetPrefix, "/_next/webpack-hmr?page=").concat(currentPage),
     timeout: 5000
   });
   evtSource.addMessageListener(function (event) {

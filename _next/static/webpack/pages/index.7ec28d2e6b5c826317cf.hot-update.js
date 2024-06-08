@@ -67,7 +67,7 @@ var VideoBgDiv = function VideoBgDiv() {
       muted: true,
       loop: true,
       children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxDEV)("source", {
-        src: "assets/VIDEOHOME.mp4",
+        src: "/assets/VIDEOHOME.mp4",
         type: "video/mp4"
       }, void 0, false, {
         fileName: _jsxFileName,

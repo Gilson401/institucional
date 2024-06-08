@@ -15,22 +15,22 @@ var items = [{
   youtube: 'RdFkC6Gtb5A'
 }, {
   titulo: 'Ilhas de Bermudas são lindas',
-  foto: 'assets/phantom1.png',
+  foto: '/assets/phantom1.png',
   subtitulo: 'Ilhas de Bermudas',
   youtube: 'mA30W2dHQIo'
 }, {
   titulo: 'Deserto do Atacama de noite Deserto do Atacama de noite Deserto do Atacama de noite Deserto do Atacama de noite',
   subtitulo: 'Deserto do Atacama',
   youtube: 'x2D7jHfitzk',
-  foto: 'assets/imgsAereas.png'
+  foto: '/assets/imgsAereas.png'
 }, {
   titulo: 'Planeta Terra Planeta Terra Planeta Terra Lorem Lorem Loresm',
   subtitulo: 'Planeta Terra ',
-  foto: 'assets/CIRCULAR13.png',
+  foto: '/assets/CIRCULAR13.png',
   youtube: 'W0LHTWG-UmQ'
 }, {
   titulo: 'Praia Bonita',
-  foto: 'assets/error.png',
+  foto: '/assets/error.png',
   subtitulo: 'Mar lindo',
   youtube: 'mA30W2dHQIo'
 }, {

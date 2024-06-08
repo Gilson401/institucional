@@ -103,22 +103,22 @@ var ComponentPortfolio = function ComponentPortfolio() {
     youtube: 'RdFkC6Gtb5A'
   }, {
     altText: 'Ilhas de Bermudas são lindas',
-    foto: 'assets/phantom1.png',
+    foto: '/assets/phantom1.png',
     caption: 'Ilhas de Bermudas',
     youtube: 'mA30W2dHQIo'
   }, {
     altText: 'Deserto do Atacama de noite Deserto do Atacama de noite Deserto do Atacama de noite Deserto do Atacama de noite',
     caption: 'Deserto do Atacama',
     youtube: 'x2D7jHfitzk',
-    foto: 'assets/imgsAereas.png'
+    foto: '/assets/imgsAereas.png'
   }, {
     altText: 'Planeta Terra Planeta Terra Planeta Terra Lorem Lorem Loresm',
     caption: 'Planeta Terra ',
-    foto: 'assets/CIRCULAR13.png',
+    foto: '/assets/CIRCULAR13.png',
     youtube: 'W0LHTWG-UmQ'
   }, {
     altText: 'Praia Bonita',
-    foto: 'assets/error.png',
+    foto: '/assets/error.png',
     caption: 'Mar lindo',
     youtube: 'mA30W2dHQIo'
   }, {

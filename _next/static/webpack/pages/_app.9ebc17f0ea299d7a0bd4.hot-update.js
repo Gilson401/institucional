@@ -352,7 +352,7 @@ var FooterComponent = function FooterComponent() {
           sm: 3,
           children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxDEV)("img", {
             className: "mx-auto logoNameImage",
-            src: "assets/logoNameImage.png",
+            src: "/assets/logoNameImage.png",
             alt: "item.altText"
           }, void 0, false, {
             fileName: _jsxFileName,
@@ -379,7 +379,7 @@ var FooterComponent = function FooterComponent() {
         href: "https://api.whatsapp.com/send?phone=5521999999999",
         children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxDEV)("img", {
           className: "",
-          src: "assets/zapbtn.svg",
+          src: "/assets/zapbtn.svg",
           alt: "zap"
         }, void 0, false, {
           fileName: _jsxFileName,

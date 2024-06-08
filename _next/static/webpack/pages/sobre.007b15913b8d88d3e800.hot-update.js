@@ -87,7 +87,7 @@ var Sobre = function Sobre() {
         }, _this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxDEV)("img", {
           className: "imgc",
           alt: 'imagem sobre1',
-          src: "assets/casasobre.png"
+          src: "/assets/casasobre.png"
         }, void 0, false, {
           fileName: _jsxFileName,
           lineNumber: 25,
@@ -104,7 +104,7 @@ var Sobre = function Sobre() {
         children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxDEV)("img", {
           className: "imgazevedo",
           alt: 'imagem sobre2',
-          src: "assets/fernandoazevedo.png"
+          src: "/assets/fernandoazevedo.png"
         }, void 0, false, {
           fileName: _jsxFileName,
           lineNumber: 30,

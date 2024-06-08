@@ -88,7 +88,7 @@ var ListaContribuicaoComponent = function ListaContribuicaoComponent() {
         md: 4,
         children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxDEV)(GradImage, {
           className: "GradImage",
-          src: 'assets/contribuir1.png',
+          src: '/assets/contribuir1.png',
           children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxDEV)("div", {
             className: "centercontainer text-center textwhite",
             children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxDEV)("p", {
@@ -126,7 +126,7 @@ var ListaContribuicaoComponent = function ListaContribuicaoComponent() {
         md: 4,
         children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxDEV)(GradImage, {
           className: "GradImage",
-          src: 'assets/construcaocivil.png',
+          src: '/assets/construcaocivil.png',
           children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxDEV)("div", {
             className: "centercontainer text-center textwhite",
             children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxDEV)("p", {
@@ -164,7 +164,7 @@ var ListaContribuicaoComponent = function ListaContribuicaoComponent() {
         md: 4,
         children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxDEV)(GradImage, {
           className: "GradImage",
-          src: 'assets/contribuir3.png',
+          src: '/assets/contribuir3.png',
           children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxDEV)("div", {
             className: "centercontainer text-center textwhite",
             children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxDEV)("p", {

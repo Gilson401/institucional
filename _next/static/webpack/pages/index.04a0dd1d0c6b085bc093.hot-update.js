@@ -92,7 +92,7 @@ var ListaContribuicaoComponent = function ListaContribuicaoComponent() {
           md: 4,
           children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxDEV)(GradImage, {
             className: "GradImage",
-            src: 'assets/contribuir1.png',
+            src: '/assets/contribuir1.png',
             children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxDEV)("div", {
               className: "centercontainer text-center textwhite",
               children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxDEV)("p", {
@@ -130,7 +130,7 @@ var ListaContribuicaoComponent = function ListaContribuicaoComponent() {
           md: 4,
           children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxDEV)(GradImage, {
             className: "GradImage",
-            src: 'assets/construcaocivil.png',
+            src: '/assets/construcaocivil.png',
             children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxDEV)("div", {
               className: "centercontainer text-center textwhite",
               children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxDEV)("p", {
@@ -168,7 +168,7 @@ var ListaContribuicaoComponent = function ListaContribuicaoComponent() {
           md: 4,
           children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxDEV)(GradImage, {
             className: "GradImage",
-            src: 'assets/contribuir3.png',
+            src: '/assets/contribuir3.png',
             children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxDEV)("div", {
               className: "centercontainer text-center textwhite",
               children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxDEV)("p", {
@@ -316,7 +316,7 @@ var _jsxFileName = "D:\\Users\\tomaz\\projetos\\react-projects\\drone3\\componen
     _s = $RefreshSig$();
 
 function _templateObject3() {
-  var data = (0,D_Users_tomaz_projetos_react_projects_drone3_node_modules_babel_runtime_helpers_esm_taggedTemplateLiteral__WEBPACK_IMPORTED_MODULE_0__.default)(["\nbackground-image: url('assets/fotosecaohomelast.png');\nheight: 100%;\nwidth: 100%;\nbackground-repeat: no-repeat;\nbackground-position: center bottom;  \nbackground-size: cover;\n\n\n"]);
+  var data = (0,D_Users_tomaz_projetos_react_projects_drone3_node_modules_babel_runtime_helpers_esm_taggedTemplateLiteral__WEBPACK_IMPORTED_MODULE_0__.default)(["\nbackground-image: url('/assets/fotosecaohomelast.png');\nheight: 100%;\nwidth: 100%;\nbackground-repeat: no-repeat;\nbackground-position: center bottom;  \nbackground-size: cover;\n\n\n"]);
 
   _templateObject3 = function _templateObject3() {
     return data;
@@ -370,7 +370,7 @@ var QuemSomosComponent = function QuemSomosComponent() {
             className: "hidelarge ",
             children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxDEV)("img", {
               className: "mx-auto",
-              src: "assets/droneBranco.png",
+              src: "/assets/droneBranco.png",
               alt: "item.altText"
             }, void 0, false, {
               fileName: _jsxFileName,
@@ -451,7 +451,7 @@ var QuemSomosComponent = function QuemSomosComponent() {
                 columnNumber: 89
               }, _this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxDEV)("img", {
                 className: "hidesmall mx-auto rotating",
-                src: "assets/CIRCULAR13.png",
+                src: "/assets/CIRCULAR13.png",
                 alt: "item.altText"
               }, void 0, false, {
                 fileName: _jsxFileName,
