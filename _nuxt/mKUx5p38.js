@@ -1,1 +1,0 @@
-import{_ as o,o as c,c as s,a as e}from"./CM2u5aAs.js";const t={},n=e("h1",null,'Product Page home "/products"',-1),_=e("div",{class:"h-9 w-9"},null,-1),a=[n,_];function r(d,l){return c(),s("div",null,a)}const u=o(t,[["render",r]]);export{u as default};
