@@ -1,1 +1,0 @@
-import{_ as c}from"./D5K1qQBV.js";import{_ as a}from"./AhAn4zsQ.js";import{_ as n,o as _,c as r,b as o,a as f,S as l}from"./DJMImLCP.js";import"./CioJgQ7y.js";const m={},d={class:"flex flex-col jobs-container"},i={class:"flex-grow"};function p(e,u){const t=c,s=a;return _(),r("div",d,[o(t),f("div",i,[l(e.$slots,"default")]),o(s)])}const N=n(m,[["render",p]]);export{N as default};
